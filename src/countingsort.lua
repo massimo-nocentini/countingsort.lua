@@ -28,5 +28,6 @@ function cs.sort (tbl)
 end
 
 --print (table.concat (cs.sort {10, 0, 0, -1, 4, 3, 5, 20, 9, 9}, ' '))
+--print (table.concat (cs.sort {-815764257349, 98725409257}, ' '))
 
 return cs
